@@ -5,8 +5,12 @@ h1 {
 .xyz1{
     font-weight: bold;
     font-family: Courier;
-    font-style: italic
+    font-style: italic;
 }
+
+
+
+
 .xyz2{
     border: red dotted 20px;
     border-radius: 50px;
@@ -22,6 +26,11 @@ h1 {
 
 }
 
+.xyz3 {
+
+}
+
 .fit-picture {
     width: 250px;
 }
+
